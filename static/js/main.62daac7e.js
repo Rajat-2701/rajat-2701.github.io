@@ -18817,7 +18817,7 @@
                         muted: !0,
                       }),
                       (0, pe.jsx)("video", {
-                        src: mediaBg,
+                        src: Rr,
                         className:
                           "w-full h-auto fixed top-0 lg:hidden md:hidden sm:block",
                         width: "100",
